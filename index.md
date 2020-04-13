@@ -1,4 +1,4 @@
-## Welcome to CaeBaike
+## Welcome to CaeBaike!
 
 You can use the [editor on GitHub](https://github.com/CaeBaike/CaeBaike.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
